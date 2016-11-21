@@ -1,6 +1,6 @@
 ## Sebastien Combret
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Porfolio] (https://kyawtunsein.com/portfolio/) | [LinkedIn] (https://uk.linkedin.com/in/kyawtunsein)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Porfolio] (#) | [LinkedIn] (https://uk.linkedin.com/in/sebastiencombret)
 
 Background Info , About me
 
@@ -23,4 +23,4 @@ Project | Description | Timeframe | Technologies | Testing
 
 ## Education
 
-#### Makers Academy (August 2016 to December 2016)
+#### Designer ISBAN (Santander bank) 
